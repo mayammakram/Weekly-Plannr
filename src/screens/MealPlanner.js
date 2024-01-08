@@ -10,8 +10,7 @@ import Button from '@mui/material/Button';
 import TextField from '@mui/material/TextField';
 import Autocomplete from '@mui/material/Autocomplete';
 
-import pdfDocument from '/home/maya/Documents/planner/src/data/Easy-College-Weekly-Meal-Planner.pdf'; // Adjust the path accordingly
-
+import pdfDocument from '../data/Meal_Planner.pdf'; // Adjust the path accordingly
 const mealIdeas = {
   breakfast: [
     'Oatmeal with fruits',
