@@ -29,7 +29,3 @@ Make sure you have Node.js and npm installed on your machine.
 ## Contributing
 
 Contributions are welcome! Feel free to submit bug reports, feature requests, or contribute directly by forking the repository and creating a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
