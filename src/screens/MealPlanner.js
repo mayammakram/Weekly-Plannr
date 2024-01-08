@@ -10,7 +10,7 @@ import Button from '@mui/material/Button';
 import TextField from '@mui/material/TextField';
 import Autocomplete from '@mui/material/Autocomplete';
 
-import pdfDocument from '../data/Meal_Planner.pdf'; // Adjust the path accordingly
+// import pdfDocument from '../data/Meal_Planner.pdf'; // Adjust the path accordingly
 const mealIdeas = {
   breakfast: [
     'Oatmeal with fruits',
@@ -116,10 +116,10 @@ const WeekMealPlanner = () => {
         Clear Table
       </Button>
 
-      <div style={{ marginTop: '20px' }}>
+      {/* <div style={{ marginTop: '20px' }}>
         <h2>PDF Viewer</h2>
         <embed src={pdfDocument} type="application/pdf" width="100%" height="600px" />
-      </div>
+      </div> */}
     </div>
   );
 };
